@@ -26,7 +26,7 @@ This end-to-end Power BI report transforms daily transactional data into strateg
 ### 1️⃣ Overview Page
 Focuses on macro-level KPI cards, dynamic monthly trend lines, geographic revenue distribution across Europe, top-performing countries, and baseline promotion revenue splits.
 
-![Performance Overview](EPSPA_1.png)
+![Performance Overview](Screenshots/EPSPA_1.png)
 
 * **Key Takeaway:** Germany leads total country revenue, followed closely by France, Italy, Belgium, and the Netherlands. Promoted sales account for **10.55% (€0.91M)** of total revenue, while non-promoted baseline sales represent **89.45% (€7.72M)**.
 
@@ -35,7 +35,7 @@ Focuses on macro-level KPI cards, dynamic monthly trend lines, geographic revenu
 ### 2️⃣ Regional Performance Page
 Enables detailed geographic evaluation using location sparklines, top cities by cost/margin, pharmacy type comparisons (Urban vs. Suburban vs. Rural), and an interactive **Decomposition Tree** drill-down (`Country` → `Region` → `City` → `Pharmacy`).
 
-![Regional Performance](EPSPA_2.png)
+![Regional Performance](Screenshots/EPSPA_2.png)
 
 * **Key Takeaway:** Urban pharmacies dominate overall sales volume (**29.6K units**), followed by Suburban (**22.4K units**) and Rural (**10.2K units**). Milan, Hamburg, and Utrecht stand out as key drivers in regional contribution.
 
@@ -44,7 +44,7 @@ Enables detailed geographic evaluation using location sparklines, top cities by 
 ### 3️⃣ Product & Brand Performance Page
 Evaluates product category margins, top brands by revenue and profit, scatter plot distribution (Volume vs. Profitability), conditional formatted product tables, and promotional efficiency.
 
-![Product Performance](EPSPA_3.png)
+![Product Performance](Screenshots/EPSPA_3.png)
 
 * **Key Takeaway:** **Prescription** products generate the highest absolute revenue and total margin, followed by **Wellness** and **OTC** categories. **AntiBioX** is the top-performing brand in both revenue (**€55K**) and margin (**€13.0K**). Non-promoted sales demonstrate higher overall sales volume (**4.5K**) compared to promoted sales (**0.6K**).
 
