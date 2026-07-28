@@ -5,7 +5,7 @@ An interactive three-page Power BI dashboard designed for commercial leadership 
 ---
 
 ## 🔗 Live Interactive Report
-👉 **[View Published Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDViODk1NzctYjk3NC00MmQwLTk5M2UtNmEwMzE5MGMwNGE2IiwidCI6IjkyNWU0ZDViLTk4ZmYtNDc4NWU3LTU2NjAwM2VhM2VhM2ViIn0%3D)**
+👉 **[View Published Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDViODk1NzctYjk3NC00MmQwLTk5M2UtNmEwMzE5MGMwNGE2IiwidCI6IjkyNWU0ZDViLTk4ZmYtNDc4Ny04NWU3LTU2NjAwM2VhZTg2YiJ9)**
 
 ---
 
